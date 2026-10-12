@@ -1,0 +1,9 @@
+  Session   Swap SPI flash en STM32F411 con Xinu
+  Continue  opencode -s ses_f8e395a85ffeU4WfjKOWKPz5W0
+
+  Session   Compilar y corregir errores en esp_blink
+  Continue  opencode -s ses_f9749f04affeXRb30YuqgrdwMD
+
+
+  Session   Crear compilador en C y VM para tinyscript
+  Continue  opencode -s ses_f97907aaeffexGjItEjaFr5U8b
